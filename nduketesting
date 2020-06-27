@@ -1,1 +1,7 @@
-for testing
+git installation
+sudo yum install git -y
+git version
+
+git add *
+git commit -m "from stanley"
+git push
